@@ -1,1 +1,3 @@
-Ficheir readme test de la quetes Git les fondamentaux
+Fichier readme test de la quetes Git les fondamentaux
+
+c'est bien galere
